@@ -1,0 +1,16 @@
+{
+  "name": "profanity-filter-bot",
+  "version": "1.0.5",
+  "description": "Automatically removes Profanity from the server messages",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "mysql": "^2.18.1"
+  }
+}
