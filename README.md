@@ -31,8 +31,6 @@ You can self host or host the bot on a Server.
  
  ChatGPT isnt perfect. It can write you an whole code but if you dont have any Basic Understanding of how Programming works, its do's and how functions or conditions work, the Program ChatGPT writes might not work the way you want it to.
  
- For example, in this Bot, ChatGPT understands it needs to write using DiscordJS and also knows how to write but with recent DiscordJS 14, a lot of functions have changed and ChatGPT doesnt understand that yet. As an example the `client.on('messageCreate',....` chatGPT writes as `client.on('message',....`  which doesnt throw error but if you are running discordjs v14 and above the Bot might not respond to any message.
- 
  <H3>Lastly</H3>
  
  A Lot of functionalitues can be added or a complete Bot with lots of feature can be create using ChatGPT but should know what you are doing. If you want to try the bot, here is an Invite link [**Profanity Filter Bot**](https://discord.com/api/oauth2/authorize?client_id=857317634566783006&permissions=824633797632&scope=bot)
