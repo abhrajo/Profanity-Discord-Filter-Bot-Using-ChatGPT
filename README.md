@@ -33,6 +33,5 @@ You can self host or host the bot on a Server.
  
  <H3>Lastly</H3>
  
- A Lot of functionalitues can be added or a complete Bot with lots of feature can be create using ChatGPT but should know what you are doing. If you want to try the bot, here is an Invite link [**Profanity Filter Bot**](https://discord.com/api/oauth2/authorize?client_id=857317634566783006&permissions=824633797632&scope=bot)
-
+ A Lot of functionalitues can be added or a complete Bot with lots of feature can be create using ChatGPT but should know what you are doing.
  
